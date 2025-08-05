@@ -5,7 +5,7 @@
 This is a simple **Student Management System** built using **Java** and **ArrayList**, designed to perform basic CRUD operations:
 
 -  Add Student
-- 👁View Student
+-  View Student
 -  Update Student
 -  Delete Student
 
